@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Parallax Effect Website</title>
+<!--   <title>Parallax Effect Website</title> -->
 </head>
 <body>
 
